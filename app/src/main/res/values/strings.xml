@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">কার রেসিং</string>
+    <string name="game_title">🏎️ আমার কার রেসিং গেম</string>
+    <string name="score_label">স্কোর: %1$d</string>
+    <string name="high_score_label">সেরা স্কোর: %1$d</string>
+    <string name="game_over_title">গেম শেষ!</string>
+    <string name="restart_button">আবার খেলুন</string>
+    <string name="left_button">বামে যান</string>
+    <string name="right_button">ডানে যান</string>
+</resources>

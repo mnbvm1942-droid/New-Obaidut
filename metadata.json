@@ -1,0 +1,6 @@
+{
+  "name": "কার রেসিং",
+  "description": "রোমাঞ্চকর 2D কার রেসিং গেম - শত্রু গাড়ি এড়িয়ে সর্বোচ্চ স্কোর অর্জন করুন",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
